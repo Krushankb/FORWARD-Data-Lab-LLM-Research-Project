@@ -47,4 +47,5 @@ https://drive.google.com/file/d/13-ju8MgIVA2rVBsGspb64wU_IES88eRq/view?usp=shari
 
 ## References
 For Document QA chain: https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8
+
 For Huggingface Pipeline: https://huggingface.co/docs/transformers/pipeline_tutorial
