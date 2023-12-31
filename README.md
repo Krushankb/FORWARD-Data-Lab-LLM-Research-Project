@@ -39,3 +39,12 @@ Text description for files:
 Link to video: 
 
 https://drive.google.com/file/d/13-ju8MgIVA2rVBsGspb64wU_IES88eRq/view?usp=sharing
+
+## Issues and Future Work
+- Need to move away from stuff approach for Langchain framework
+- Try to use a better model for summarization of larger files
+- Need to combine the two frameworks to have model operate like a human-thought process agent
+
+## References
+For Document QA chain: https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8
+For Huggingface Pipeline: https://huggingface.co/docs/transformers/pipeline_tutorial
