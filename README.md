@@ -36,4 +36,6 @@ Text description for files:
 
 ## Demo video
 
-Include a link to your demo video, which you upload to our shared Google Drive folder (see the instructions for code submission).
+Link to video: 
+
+https://drive.google.com/file/d/13-ju8MgIVA2rVBsGspb64wU_IES88eRq/view?usp=sharing
